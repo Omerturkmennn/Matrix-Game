@@ -21,15 +21,10 @@ Belirli bir satırın tüm elemanları `-1` olduğunda program sonlanır.
 - Bulunmazsa bilgi mesajı bastırılır.  
 7. Eğer bir satırın **tüm elemanları -1 olursa**, program durur.
 
-##  Örnek Çıktı
 
-Zarlar: 6, 5, 4
-Matris içinde aranacak değer: 34
-Matrisin 1. satırının 2. sütunu -1 yapıldı
-Güncellenen Matris:
-[[-1 -1 -1]
- [-1  2 -1]
- [-1 -1 34]]
-Matrisin 1. satırının tüm elemanları -1 olduğu için program sonlandırıldı.
+
+
+
+
 
 
